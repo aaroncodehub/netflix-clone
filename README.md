@@ -9,6 +9,6 @@ Netflix clone
 | Front End              | Back End |
 | ------------------------ | :----------------------------------------------------------- |
 | ✔ react hooks                                      |✔ Firebase hosting
-| ✔ axios                                            |-
+| ✔ axios                                            |✔ themoviedb api
 | ✔ movie-trailer                                    |-
 | ✔ css                                              |-
